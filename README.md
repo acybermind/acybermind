@@ -1,7 +1,7 @@
 ### Hi my friend, I'am a cybermind! 👋
 
 
-- 🔭 I’m a Ph.D. candidate in Neuroscience and Neurotechnology at METU.
+- 🔭 I’m a Neuroscientist.
 - 🌱 I’m currently learning computational techniques in Neuroscience.
 - 👯 I’m looking to collaborate on voluntary science projects.
 - 🤔 I’m looking for help with modelling brain network's.
