@@ -22,9 +22,6 @@ I'm a **Neuroscientist** with a PhD in **Neuroscience & Neurotechnology**. My pr
 
 ## 🎨 Visual Enhancements
 ![Terminator](https://media.giphy.com/media/IzjhI7ggjDlEnMxZMu/giphy.gif)
-![The Matrix Neo](https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif)
-
-
 
 
 
@@ -39,4 +36,4 @@ I'm a **Neuroscientist** with a PhD in **Neuroscience & Neurotechnology**. My pr
 
 ![Banner](https://github.com/acybermind/acybermind/raw/main/banner.png)
 
-> "The brain is wider than the sky." — Emily Dickinson
+"If proof does not live in the mind, you cannot prove it." — Grigori Perelman
