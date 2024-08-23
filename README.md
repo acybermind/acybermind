@@ -22,7 +22,8 @@ I'm a **Neuroscientist** with a PhD in **Neuroscience & Neurotechnology**. My pr
 
 ## 🎨 Visual Enhancements
 
-![Matrix Code Rain](https://github.com/yourusername/yourrepository/raw/main/yourgifname.gif)
+![Matrix Code](https://user-images.githubusercontent.com/your-github-username/12345678/abcdef1234567/matrixcode.gif)
+
 
 
 
