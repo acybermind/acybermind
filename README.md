@@ -22,7 +22,7 @@ I'm a **Neuroscientist** with a PhD in **Neuroscience & Neurotechnology**. My pr
 
 ## 🎨 Visual Enhancements
 ![Terminator](https://media.giphy.com/media/IzjhI7ggjDlEnMxZMu/giphy.gif)
-![Matrix](https://images.app.goo.gl/G3uCVr46WM4kn5Ak6)
+![Matrix](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZ0NmtnYnpqZmdwazQwc3p3YmNhbzJkcDMwMzlwNGwxN2Q3d283ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oDYELhFm38KeI1kmJT/giphy.gif)
 
 
 
