@@ -21,8 +21,8 @@ I'm a **Neuroscientist** with a PhD in **Neuroscience & Neurotechnology**. My pr
 - ⚡ Fun fact: consciousness is not a computation.
 
 ## 🎨 Visual Enhancements
+![Matrix Code Rain](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
 
-![Matrix](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZ0NmtnYnpqZmdwazQwc3p3YmNhbzJkcDMwMzlwNGwxN2Q3d283ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oDYELhFm38KeI1kmJT/giphy.gif)
 
 
 
