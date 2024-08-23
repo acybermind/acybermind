@@ -22,15 +22,7 @@ I'm a **Neuroscientist** with a PhD in **Neuroscience & Neurotechnology**. My pr
 
 ## 🎨 Visual Enhancements
 
-![Matrix Code](https://media.giphy.com/media/VuXgL3VzVu1uuJZtT3/giphy.gif)
-
-
-
-
-
-
-
-
+![Cyber GIF](https://github.com/acybermind/PhdThesis/raw/main/cyber.gif)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/acybermind?style=social)
